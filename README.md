@@ -1,6 +1,6 @@
 <h1 align="center">Color Picker</h1>
 
-![Color Picker](../ColorPicker/public/colorPick.jpg)
+![Color Picker](../Color_Picker/public/colorPick.jpg)
 
 ## Commands to run:
 - npm install  
